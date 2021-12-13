@@ -121,7 +121,6 @@
 
 .two-columns__span-accent {
   font-weight: bold;
-  white-space: pre;
 }
 
 .two-columns__main-text {
@@ -183,7 +182,6 @@
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .table__text:last-of-type {
@@ -250,9 +248,6 @@
 .section-title_theme_dark {
   padding-top: 90px;
   color: white;
-  text-align: center;
-  margin: 0 auto;
-  font-weight: bold;
   z-index: 2;
 }
 
@@ -264,7 +259,7 @@
   font-weight:normal;
 }
 
-.table__heading_cell_theme_dark {
+.table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -272,10 +267,10 @@
 
 .table__theme_dark {
   color: white;
-  margin-bottom: 90px;
+  padding-bottom: 90px;
 }
 
-.table__text_cell_theme_dark {
+.table__text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
   font-weight:normal;
@@ -286,7 +281,7 @@
   width: 200px;
   color: white;
   margin-right: 0;
-  margin-top: 80px;
+  margin-top: 90px;
   z-index: 2;
   line-height: 1.2;
   font-size: 18px;
