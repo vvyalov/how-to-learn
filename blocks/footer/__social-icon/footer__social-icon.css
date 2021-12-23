@@ -1,0 +1,13 @@
+.footer__social-icon {
+  color: white;
+  display: flex;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  margin-right: 10px;
+}
+  
+.footer__social-icon:hover {
+  opacity: .7;
+}
