@@ -1,3 +1,8 @@
 .logo {
     align-self: flex-start;
+    width: 183px;
   }
+
+  .logo:hover {
+    opacity: .7;
+    }
